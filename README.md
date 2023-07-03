@@ -9,6 +9,6 @@ EOG_Raw Data archive is very big (10.2GB)
 
 Please download it from:
 
-https://zenodo.org/record/2532900/files/EOG%20Raw%20Data.zip?download=1
+https://zenodo.org/record/7852426
 
 
